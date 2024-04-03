@@ -1,0 +1,4 @@
+GET http://localhost:5000/birthdays?department=HR
+
+###
+GET http://localhost:5000/anniversaries?month=april&department=Sales
